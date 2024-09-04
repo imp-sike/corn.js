@@ -15,7 +15,7 @@ export default function App() {
 
     return (
         <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-6">
-            <h1 className="text-4xl font-bold mb-4 ">Todo Applications</h1>
+            <h1 className="text-4xl font-bold mb-4 ">Todo Application</h1>
             <AddTodo addTodo={addTodo} />
             <TodoList todos={todos} removeTodo={removeTodo} />
             <p className="mt-4 text-lg">Total Todos: {todos.length}</p>
