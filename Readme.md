@@ -15,7 +15,12 @@ To get started with Corn.js, clone this repository and install the dependencies:
 ```bash
 git clone https://github.com/imp-sike/corn.js.git
 npm install
+npm run build
 ```
+
+This will create a `dist` folder with the files which can be run using "Live Server" or anything like that.
+
+Check example at [Example](https://imp-sike.github.io/corn.js/dist/)
 
 
 ## 🤔 Contributing
