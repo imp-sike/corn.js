@@ -22,6 +22,8 @@ This will create a `dist` folder with the files which can be run using "Live Ser
 
 Check example at [Example](https://imp-sike.github.io/corn.js/dist/)
 
+## Working
+![Image](./image.png)
 
 ## 🤔 Contributing
 
